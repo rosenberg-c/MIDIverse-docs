@@ -6,14 +6,13 @@ Welcome to the documentation. This guide provides detailed information on the fe
 
 ## Table of Contents  
 
-1. [Introduction](#introduction)  
-2. [Features](#features)  
-   - [Note Mapper Utility](#note-mapper-utility)  
-   - [Zone Mapper Utility](#zone-mapper-utility)  
-   - [Settings](#settings)  
-3. [Getting Started](#getting-started)  
-4. [FAQs](#faqs)  
-5. [Support](#support)  
+- [Introduction](#introduction)  
+- [Features](#features)  
+  - [Channel Mapper Utility](#channel-mapper-utility)  
+  - [Zone Mapper Utility](#zone-mapper-utility)  
+  - [Settings](#settings)  
+- [Getting Started](#getting-started)  
+- [Support](#support)  
 
 ---
 
@@ -26,7 +25,7 @@ Whether you’re mapping channels, splitting notes, or managing virtual devices,
 
 ## Features  
 
-### Note Mapper Utility  
+### Channel Mapper Utility  
 
 - **Channel Selection**: Choose an input channel and assign it to an output channel.  
 - **Highlighting**: Active channels are highlighted, with a distinct background color if the input differs from the output.  
@@ -58,7 +57,7 @@ Whether you’re mapping channels, splitting notes, or managing virtual devices,
    Use the Settings view to configure your input and output devices.  
 
 3. **Explore Utilities**  
-   - Open the Note Mapper to configure channel routing.  
+   - Open the Channel Mapper to configure channel routing.  
    - Use the Zone Mapper to divide and route notes based on delimiters.  
    - Create virtual devices if needed for your setup.  
 
