@@ -6,7 +6,8 @@ Welcome to the documentation. This guide provides detailed information on the fe
 
 ## Table of Contents  
 
-- [Introduction](#introduction)  
+- [Introduction](#introduction)
+- [Installation](#installation)
 - [Features](#features)  
   - [Channel Mapper Utility](#channel-mapper-utility)  
   - [Zone Mapper Utility](#zone-mapper-utility)  
@@ -20,6 +21,12 @@ Welcome to the documentation. This guide provides detailed information on the fe
 
 The MIDI Utilities App is a collection of tools designed to streamline your MIDI setup and workflow.
 Whether you’re mapping channels, splitting notes, or managing virtual devices, this app provides the flexibility and precision needed for MIDI routing and configuration.
+
+---
+
+## Installation  
+
+<https://apps.apple.com/se/app/midiverse/id6740984664?l=en-GB&mt=12>
 
 ---
 
